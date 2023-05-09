@@ -1,3 +1,3 @@
-# Natours-html-css
+# Natours-html-scss
 
-HTML | SASS
+HTML | SCSS
